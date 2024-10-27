@@ -106,8 +106,7 @@ h3 {
 .frame-container {
     display: flex;
     justify-content: space-between;
-    flex-direction: row;
-    padding: 40px 50px;
+    margin: 40px 50px;
     flex-wrap: wrap;
     margin-bottom: 40px;
 }
