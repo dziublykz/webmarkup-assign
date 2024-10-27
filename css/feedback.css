@@ -105,7 +105,7 @@ body {
 .frame-container {
     display: flex;
     justify-content: space-between;
-    padding: 40px 300px;
+    padding: 40px 250px;
     flex-wrap: wrap;
 }
 
